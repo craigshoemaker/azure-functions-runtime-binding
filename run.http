@@ -1,0 +1,7 @@
+# Use the Visual Studio Code extension REST client
+# to run the following requests.
+#    https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+GET http://localhost:7071/api/SaveDefault?message=hello
+
+GET http://localhost:7071/api/SaveCustom?message=hello
