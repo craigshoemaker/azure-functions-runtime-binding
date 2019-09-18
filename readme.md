@@ -6,8 +6,11 @@ This sample demonstrates how to customize an Azure Functions binding.
 
 1. Clone the repository:
 
-    git clone ***
+    ```bash
+    git clone https://github.com/craigshoemaker/azure-functions-runtime-binding.git
+    ```
 
+1. Change to the *azure-functions-runtime-binding* folder
 1. Rename *local.settings.EXAMPLE.json* to *local.settings.json*.
 1. Replace `<AZURE_BLOB_STORAGE_CONNECTION_STRING>` with your blob storage connection string
 
